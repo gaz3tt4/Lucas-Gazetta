@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Lucas Gazetta
+# 👋 Hello, I'm gaz3tt4
 
 Welcome to my GitHub! I'm a Junior Full-Stack Developer exploring the world of programming languages and technologies. This is where I showcase my personal projects, document my learning journey, and share what I’m passionate about. 🚀
 
@@ -15,18 +15,18 @@ Welcome to my GitHub! I'm a Junior Full-Stack Developer exploring the world of p
 
 Currently, I'm diving deeper into full-stack development, experimenting with new frameworks, and building a solid understanding of both front-end and back-end technologies. I’m also exploring the world of DevOps and cloud deployment.
 
-## 📂 My Projects
+## 📂 My Project
 
 Here are some of my favorite projects:
-- **[Project 1](https://github.com/gaz3tt4/project1):** Brief description of what this project does.
-- **[Project 2](https://github.com/gaz3tt4/project2):** Brief description of this project’s purpose and goals.
-- **[Project 3](https://github.com/gaz3tt4/project3):** Brief description of this project.
+- **[Project 1](https://github.com/gaz3tt4/pim4):** Basic platform for managing agricultural production.
+- **[Project 2](https://github.com/gaz3tt4/AirplaneCreate):** System for registering airplanes, with the main objective of implementing CRUD operations using Laravel.
+- **[Project 3](https://github.com/gaz3tt4/Trabalho-NP2):** College project aimed at studying Java.
 
 Check out my repositories for more projects and experiments!
 
 ## 📫 Let's Connect
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile/) or send me a message if you’d like to collaborate or chat about tech!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/lucas-gazetta-9b4099194/) or send me a message if you’d like to collaborate or chat about tech!
 
 ---
 
