@@ -1,4 +1,4 @@
-# 👋 Hello, I'm gaz3tt4
+# 👋 Hello, I'm Lucas Gazetta
 
 Welcome to my GitHub! I'm a Junior Full-Stack Developer exploring the world of programming languages and technologies. This is where I showcase my personal projects, document my learning journey, and share what I’m passionate about. 🚀
 
